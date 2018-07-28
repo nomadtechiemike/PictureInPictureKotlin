@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:17:1-43:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\cf1ac99b7bf6d5b92a327b581cae441b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\144dce4a43fdf3316b123f7ada54333a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\b28979d637711544186a2fb9317f5c4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\ef606052cb7b799e748d733c8c397d65\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\a1b0833001c055ade7c69586a151d91a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\8be02c255ec2412b8b16d4310f5c9c25\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\a6f42c478206c5bd907e55c73389b016\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\b3d50af0fca85cf819d72fc5854c2219\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bda23f044201405c5c53b1a9625a7145\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:17:1-43:12
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:17:1-43:12
+	package
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:17:1-43:12
+		INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:17:1-43:12
+		INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:18:5-63
+application
+ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:21:5-41:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bda23f044201405c5c53b1a9625a7145\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bda23f044201405c5c53b1a9625a7145\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:26:9-40
+activity#com.example.android.pictureinpicture.MainActivity
+ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:28:9-36:20
+	android:supportsPictureInPicture
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:31:13-52
+	android:configChanges
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:30:13-91
+	android:name
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.example.android.pictureinpicture.MediaSessionPlaybackActivity
+ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:37:9-39:55
+	android:supportsPictureInPicture
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:39:13-52
+	android:configChanges
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:38:13-91
+	android:name
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml:37:19-63
+uses-sdk
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\cf1ac99b7bf6d5b92a327b581cae441b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\cf1ac99b7bf6d5b92a327b581cae441b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\144dce4a43fdf3316b123f7ada54333a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.0.aar\144dce4a43fdf3316b123f7ada54333a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\b28979d637711544186a2fb9317f5c4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\b28979d637711544186a2fb9317f5c4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\ef606052cb7b799e748d733c8c397d65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\ef606052cb7b799e748d733c8c397d65\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\a1b0833001c055ade7c69586a151d91a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\a1b0833001c055ade7c69586a151d91a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\8be02c255ec2412b8b16d4310f5c9c25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\8be02c255ec2412b8b16d4310f5c9c25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\a6f42c478206c5bd907e55c73389b016\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\a6f42c478206c5bd907e55c73389b016\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\b3d50af0fca85cf819d72fc5854c2219\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\b3d50af0fca85cf819d72fc5854c2219\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bda23f044201405c5c53b1a9625a7145\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bda23f044201405c5c53b1a9625a7145\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\mikew\AndroidStudioProjects\PictureInPictureKotlin\app\src\main\AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bda23f044201405c5c53b1a9625a7145\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bda23f044201405c5c53b1a9625a7145\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\mikew\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\bda23f044201405c5c53b1a9625a7145\AndroidManifest.xml:26:13-58
